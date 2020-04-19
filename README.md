@@ -1,1 +1,3 @@
-# Clicker_Game
+# To run
+
+python main.py
