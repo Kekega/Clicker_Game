@@ -1,3 +1,3 @@
-# To run
+# To run:
 
 python main.py
