@@ -5,7 +5,7 @@
     "one_click": 1,
     "auto_click": 0,
 
-    "one_click_price": 1000,
+    "one_click_price": 500,
     "one_click_price_multiplier": 2,
 
     "names": ["second_account", "roommates", "bot", "the_university",
@@ -15,13 +15,13 @@
     "second_account_price": 30,
     "second_account_price_increment": 10,
 
-    "roommates_clicks": 11,
+    "roommates_clicks": 15,
     "roommates_price": 400,
     "roommates_price_increment": 200,
 
     "bot_clicks": 250,
-    "bot_price": 8000,
-    "bot_price_increment": 4000,
+    "bot_price": 10000,
+    "bot_price_increment": 2000,
 
     "the_university_clicks": 12000,
     "the_university_price": 400000,
@@ -35,7 +35,7 @@
     "nine_year_olds_price": 1000000000,
     "nine_year_olds_price_increment": 5000000000,
 
-    "golden_kappa_clicks": 750000000000,
-    "golden_kappa_price": 750000000000,
-    "golden_kappa_price_increment": 750000000000
+    "golden_kappa_clicks": 1000000000000,
+    "golden_kappa_price": 1000000000000,
+    "golden_kappa_price_increment": 1000000000000
 }
